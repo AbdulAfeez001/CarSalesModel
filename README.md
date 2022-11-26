@@ -38,7 +38,7 @@ This is a business intelligence analysis of the five car models in 2018 and 2019
 
 - Profit by Year and Model 
 
--- The most profited model in the two years is the Salish Car, and also the least sold model by quantity
+- The most profited model in the two years is the Salish Car, and also the least sold model by quantity
 ![Profit by Models 18](https://user-images.githubusercontent.com/97398702/204084863-3346a975-7342-45c7-a26b-d46ea4aebfb4.png)
 
 ![Profit by Model 19](https://user-images.githubusercontent.com/97398702/204084871-ef3d4175-3816-4505-b100-9d061252f2f1.png)
