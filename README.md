@@ -17,17 +17,24 @@ This is a business intelligence analysis of the five car models in 2018 and 2019
 - Quantity sold by dealer ID 
 ![Quantity by DealerID](https://user-images.githubusercontent.com/97398702/204084258-2e8c17f0-f6e7-4d8e-a008-ae1f51114c8e.png)
 
+
 - Quantity Sold by Model  
 -- Most sold model in 2018 and 2019 is Hudson 
 ![Quantity sold 18](https://user-images.githubusercontent.com/97398702/204084312-7e9c4b81-30af-4772-9e64-a67d9e6d6ba9.png)
 
 ![Quantity Sold 19](https://user-images.githubusercontent.com/97398702/204084317-6218777c-1853-44a4-9c94-60cd84086008.png)
 
+
+
 - Profit by Model 
 ![Profit by Model ](https://user-images.githubusercontent.com/97398702/204084327-aeadda4b-2d12-4739-ac3c-626737e58550.png)
 
+
+
 - Profit by Day and Model 
 ![Profit by Day and Model](https://user-images.githubusercontent.com/97398702/204084360-dc7532b5-38cb-436a-a196-53f6b6e1dbbf.png)
+
+
 
 - Profit by Year and Model 
 -- The most profited model in the two years is the Salish Car, and also the least sold model by quantity
